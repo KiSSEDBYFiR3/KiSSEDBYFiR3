@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Dart/Flutter**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://t.me/hopelessly"><img align="center" alt="Telegram" width="32px" src="https://user-images.githubusercontent.com/72256017/190260128-c6e32465-d956-4f2b-9106-94a6e42ba3a7.png">
+
 <p align="left">
 </p>
 
