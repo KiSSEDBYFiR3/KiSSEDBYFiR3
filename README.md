@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stas</h1>
 <h3 align="center">Flutter Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kissedbyfir3" alt="kissedbyfir3" /></a> </p>
 
 - 🔭 I’m currently working on [Shadows of Chaos](https://github.com/KiSSEDBYFiR3/shadows-of-chaos)
 
