@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer</h3>
 
 
-- 🔭 I’m currently working on [Shadows of Chaos](https://github.com/KiSSEDBYFiR3/shadows-of-chaos)
+- 🔭 I’m currently working on [Shadows of Chaos](https://github.com/KiSSEDBYFiR3/shadows-of-chaos) and [Hestia](https://github.com/Hestia-Home/application)
 
 - 🌱 I’m currently learning **Dart/Flutter**
 
