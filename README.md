@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Shadows of Chaos](https://github.com/KiSSEDBYFiR3/shadows-of-chaos) and [Hestia](https://github.com/Hestia-Home/application)
 
-- 🌱 I’m currently learning **Dart/Flutter**, **Kotlin** and TypeScript
+- 🌱 I’m currently learning **Dart/Flutter** and **Kotlin** 
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/hopelessly"><img align="center" alt="Telegram" width="32px" src="https://user-images.githubusercontent.com/72256017/190260128-c6e32465-d956-4f2b-9106-94a6e42ba3a7.png" /></a> <a href="https://vk.com/hopeless_stas"><img align="center" alt="Vk" width="32px" src="https://user-images.githubusercontent.com/72256017/190261547-b6f55e44-ae39-49ce-865e-f6505fc76ca3.png" /></a>
