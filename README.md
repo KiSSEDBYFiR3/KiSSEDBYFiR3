@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Shadows of Chaos](https://github.com/KiSSEDBYFiR3/shadows-of-chaos) and [Hestia](https://github.com/Hestia-Home/application)
 
-- 🌱 I’m currently learning **Dart, Flutter and Kotlin**
+- 🌱 I’m currently learning **Dart, Flutter and Swift**
 
 - 💬 Ask me anything about **Flutter and Dart**
 
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-1024.png" alt="ios" width="50" height="50"/> </a> <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> </a> </p>
  
  <a href="https://mobx.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/mobx-logo-vector.svg" alt="mobx" width="40" height="40"/> </a> <a href="https://bloclibrary.dev" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12129/261752/icon/pluginIcon.svg" alt="bloc" width="40" height="40"/> </a> <a href="https://riverpod.dev/" target="_blank" rel="noreferrer"> <img src="https://riverpod.dev/img/full_logo.svg" alt="riverpod" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
