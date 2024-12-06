@@ -1,30 +1,51 @@
-<h1 align="center">Hi 👋, I'm Stas</h1>
-<h3 align="center">Flutter Developer</h3>
-
-
-- 🔭 I’m currently working on [Shadows of Chaos](https://github.com/KiSSEDBYFiR3/shadows-of-chaos) and [Hestia](https://github.com/Hestia-Home/application)
-
-- 🌱 I’m currently learning **Dart, Flutter and Swift**
-
-- 💬 Ask me anything about **Flutter and Dart**
-
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://t.me/hopelessly"><img align="center" alt="Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a> <a href="https://vk.com/hopeless_stas"><img align="center" alt="Vk" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" /></a> <a href="https://www.linkedin.com/in/kissedbyfir3/"><img align="center" width="32px" height="32px" src="https://simpleicons.org/icons/linkedin.svg" alt="Stanislav Moiseev | Linkedin"/></a>
-
-
-<p align="left">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=500&color=5DA1F7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Stas!;Experienced+Flutter+and+iOS+Developer;Passionate+about+mobile+application+development" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-1024.png" alt="ios" width="50" height="50"/> </a> <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> </a> </p>
- 
-<a href="https://bloclibrary.dev" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12129/261752/icon/pluginIcon.svg" alt="bloc" width="40" height="40"/> </a> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://mobx.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/mobx-logo-vector.svg" alt="mobx" width="40" height="40"/> </a> </p>
+---
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+<h3>About Me 👨‍💻</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kissedbyfir3&show_icons=true&locale=en&langs_count=10&hide=Jupyter%20Notebook&layout=compact" alt="kissedbyfir3" /></p>
+- 🚀 **Mobile Developer** with over **3 years** of experience.
+- 🏆 Expertise in **mobile application architecture**, optimization, and **cross-platform solutions**.
+- 🌟 My recent passions are **Native iOS development** and shading languages such as **GLSL** and **Metal**, also interested in backend development on **Dart** and **Kotlin**.
+- 🛠️ Proficient in **Dart** and **Flutter**, also experienced in **Native iOS Development**.
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kissedbyfir3&show_icons=true&locale=en" alt="kissedbyfir3" /></p>
+<h3>🔧 Technologies & Skills</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kissedbyfir3" alt="kissedbyfir3" /></p>
+- **Languages:** Dart, Swift, Kotlin, GLSL
+- **State Management:** BLoC, Redux, Provider, MobX and many more custom state management solutions
+- **Architectures:** MVVM, VIPER, MVI, MVC
+- **iOS Development Stack:** UIKit/SwiftUI, Combine, GCD/async-await, CoreData, Metal Shading Language
+
+<h3>📊 GitHub Stats</h3>
+
+<p>
+  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=KiSSEDBYFiR3&theme=tokyonight_duo&background=000000&hide_border=true&fire=ff751a"/>
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KiSSEDBYFiR3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&custom_title=KiSSEDBYFiR3's+GitHub+Stats&langs_count=10" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiSSEDBYFiR3&hide=javascript,css,scss,html,cmake,objective-c,c&theme=tokyonight&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true" height="192px"/>
+</a>
+
+---
+
+<h3>📫 Get in Touch</h3>
+
+- **GitHub:** [KiSSEDBYFiR3](https://github.com/KiSSEDBYFiR3)
+- **Telegram:** [@hopelessly](https://t.me/hopelessly)
+- **Email:** [stas90forewer@mail.ru](mailto:stas90forewer@mail.ru)
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=500&color=F7768E&center=true&vCenter=true&width=435&lines=Always+learning+new+things!;+Let's+build+amazing+apps+together!" alt="Typing SVG" />
+  </a>
+</p>
