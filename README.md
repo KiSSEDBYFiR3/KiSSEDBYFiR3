@@ -38,10 +38,9 @@
 
 <h3>📫 Get in Touch</h3>
 
-- **GitHub:** [KiSSEDBYFiR3](https://github.com/KiSSEDBYFiR3)
-- **Telegram:** [@hopelessly](https://t.me/hopelessly)
-- **Email:** [stas90forewer@mail.ru](mailto:stas90forewer@mail.ru)
 
+- [**Telegram**](https://t.me/kissedbyfir3)
+- [**LinkedIn**](https://www.linkedin.com/in/kissedbyfir3)
 ---
 
 <p align="center">
