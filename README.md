@@ -22,11 +22,6 @@
 - **iOS Development Stack:** UIKit/SwiftUI, Combine, GCD/async-await, CoreData, Metal Shading Language
 
 <h3>📊 GitHub Stats</h3>
-
-<p>
-  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=KiSSEDBYFiR3&theme=tokyonight_duo&background=000000&hide_border=true&fire=ff751a"/>
-</p>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KiSSEDBYFiR3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&custom_title=KiSSEDBYFiR3's+GitHub+Stats&langs_count=10" height="192px"/>
 </a>
